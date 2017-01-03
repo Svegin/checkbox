@@ -1,1 +1,1 @@
-# checkbox use shift for check multiple checkboxes
+# checkbox. Using shift-key for check multiple checkboxes
